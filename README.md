@@ -1,4 +1,6 @@
-**Ein Fass ohne Boden**  
+    
+  **Ein Fass ohne Boden**    
+
 Ich entferne den Quellcode von dieser Plattform, denn es ist immer noch ein Mensch, der hinter den Zeilen steckt.  
 Es ist vergleichbar mit dem Schreiben eines Gedichtes oder Poems, und ich möchte meine kleinen Werke nicht einer Industrie in den Rachen werfen, die letzten Endes daraus Profit macht und es in irgendein System sperrt, von dem es so dermaßen verzerrt und verzogen wird, dass ich es selbst nicht wiedererkennen würde.    
 
