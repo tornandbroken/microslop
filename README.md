@@ -4,7 +4,8 @@
 Ich entferne den Quellcode von dieser Plattform, denn es ist immer noch ein Mensch, der hinter den Zeilen steckt.  
 Es ist nicht das perfide und aggressive Verhalten, das Microsoft seit Jahren an den Tag legt.  
 Es sind nicht die Versuche, bei denen ich als Endanwender das Versuchskaninchen für ein System bin, das willkürlich entscheidet, was passiert und wo die Reise hingeht.  
-Es ist nicht das ständige Bezahlen für irgendeinen Scheiß, von dem ich selbst gar nicht weiß, wofür eigentlich.  
+Es ist nicht Microsofts gehyptes Recall-Feature.  
+Es ist nicht das ständige Bezahlen für irgendeinen Müll, von dem ich selbst nicht weiß, wofür eigentlich.  
 Es ist nicht das andauernde Advertising von irgendwelchen Zusatzprodukten, das aggressiver ist als jeder Staubsaugervertreter an der Tür.  
 Es ist nicht der Windows-11-Rechner, der sich anfühlt, als würde ich mit gezogener Handbremse eine Autobahn entlangfahren.  
   
